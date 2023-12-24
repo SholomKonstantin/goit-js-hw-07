@@ -31,7 +31,7 @@ button {
   cursor: pointer;
 }
 
-/* Task-01 */
+/* Task-1 */
 #categories {
   list-style: none;
   padding-left: 0;
@@ -73,7 +73,7 @@ button {
   letter-spacing: 0.04em;
 }
 
-/* Task-02 */
+/* Task-2 */
 .gallery {
   list-style: none;
   padding-left: 0;
@@ -87,7 +87,7 @@ button {
   object-fit: contain;
 }
 
-/* Task-03 */
+/* Task-3 */
 #name-input {
   width: 360px;
   border-radius: 4px;
@@ -104,7 +104,7 @@ button {
   letter-spacing: 0.04em;
 }
 
-/* Task-04 */
+/* Task-4 */
 .login-form {
   max-width: 320px;
   display: flex;
@@ -149,7 +149,7 @@ button {
   background: #6c8cff;
 }
 
-/* Task-05 */
+/* Task-5 */
 .widget p {
   color: #2e2f42;
   font-size: 16px;
@@ -181,7 +181,7 @@ button {
   background: #6c8cff;
 }
 
-/* Task-06 */
+/* Task-6 */
 #controls,
 #boxes {
   display: flex;
